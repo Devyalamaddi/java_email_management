@@ -26,7 +26,7 @@
 **MainFrame (Application Window)**  
 *Below is a screenshot of the main interface of SimpleMail:*
 
-![Main Window Screenshot]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115302.png")
+![Main Window Screenshot]("../Screenshot 2024-11-24 115302.png")
 
 ---
 
