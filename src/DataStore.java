@@ -55,9 +55,16 @@ public class DataStore {
 	 *            a {@code String} representing the canonical path to this
 	 *            application's data folder
 	 */
-	public static void setFolderPath(String fp) {
-		myFolder = fp;
-	}
+	public static void setFolderPath(String path) {
+        myFolder = path;
+        File directory = new File(myFolder);
+        if (!directory.exists()) {
+            boolean created = directory.mkdirs(); // Creates the directory if it doesn't exist
+            if (!created) {
+                System.err.println("Failed to create the directory at " + myFolder);
+            }
+        }
+    }
 
 	private Configuration myConf;
 
