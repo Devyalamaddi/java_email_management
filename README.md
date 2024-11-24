@@ -33,7 +33,7 @@
 **Contact Management**  
 *Here is how you can view, edit, and manage contacts:*
 
-![Adding new Details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115413.png")
+![Adding new Details](Screenshot 2024-11-24 115413.png)
 
 ![After Adding Details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115709.png")
 
