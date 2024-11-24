@@ -26,7 +26,7 @@
 **MainFrame (Application Window)**  
 *Below is a screenshot of the main interface of SimpleMail:*
 
-![Main Window Screenshot]("Screenshot 2024-11-24 115302.png")
+![Main Window Screenshot](https://github.com/Devyalamaddi/java_email_management/blob/main/Screenshot%202024-11-24%20115302.png))
 
 ---
 
@@ -35,11 +35,11 @@
 
 ![Adding new Details](Screenshot 2024-11-24 115413.png)
 
-![After Adding Details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115709.png")
+![After Adding Details]("Screenshot 2024-11-24 115709.png")
 
-![Editing the current details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115939.png")
+![Editing the current details]("Screenshot 2024-11-24 115939.png")
 
-![Updated details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 120029.png")
+![Updated details]("Screenshot 2024-11-24 120029.png")
 
 
 ## ⚙️ **Setup & Installation**
