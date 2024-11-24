@@ -2,10 +2,10 @@ ProjectSimpleMail
 Version 1.0
 
 BUILD:
-javac -d bin -Djava.ext.dirs=lib/ src/*
+ javac -d bin -cp lib/* src/*.java
 
 RUN:
-java -cp bin/ SimpleMail
+java -cp "bin;lib/dependency1.jar;lib/dependency2.jar" SimpleMail
 
 OTHER NOTES:
 You may or may not experience the icon in the application window depending on
