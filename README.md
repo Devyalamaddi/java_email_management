@@ -1,6 +1,3 @@
-Sure! Below is a comprehensive README file tailored to the Java project you shared. This version uses emojis, animations, and placeholders for screenshots to make it visually appealing and informative.
-
----
 
 # **SimpleMail Project 📧**
 
@@ -29,30 +26,21 @@ Sure! Below is a comprehensive README file tailored to the Java project you shar
 **MainFrame (Application Window)**  
 *Below is a screenshot of the main interface of SimpleMail:*
 
-![Main Window Screenshot](path/to/screenshot.png)
+![Main Window Screenshot]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115302.png")
 
 ---
 
 **Contact Management**  
 *Here is how you can view, edit, and manage contacts:*
 
-![Contact Management Screenshot](path/to/screenshot.png)
+![Adding new Details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115413.png")
 
----
+![After Adding Details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115709.png")
 
-**Email Composer**  
-*Here’s the screen where you can compose and send your emails:*
+![Editing the current details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 115939.png")
 
-![Email Composer Screenshot](path/to/screenshot.png)
+![Updated details]("C:\Users\CHARITHA\Pictures\Screenshots\Screenshot 2024-11-24 120029.png")
 
----
-
-**System Information Dialog**  
-*See the system information, including version and licensing details:*
-
-![System Info Screenshot](path/to/screenshot.png)
-
----
 
 ## ⚙️ **Setup & Installation**
 
@@ -90,7 +78,7 @@ Ensure you have the following installed:
     To launch SimpleMail, run the following command:
 
     ```bash
-    java -cp "bin;lib/*" SimpleMail
+    java -cp "bin;lib/dependency1.jar;lib/dependency2.jar" SimpleMail
     ```
 
 ---
@@ -213,19 +201,10 @@ These animations can be added to improve the user experience and make the applic
 
 ---
 
-## 🔧 **Additional Notes** 
+## 🔧 Additional Notes
 
 - **SMTP Server Configuration**: The app uses an SMTP server for sending emails. Make sure to update the configuration with the correct SMTP details (e.g., Gmail, Outlook).
   
 - **Icon Handling**: If the icon does not appear, make sure that `icon.png` is placed in the `data/` folder and ensure it's in the right format.
 
----
 
-This README gives a comprehensive overview of the **SimpleMail** application, making it easy for users to set up, use, and contribute. If you need further details, feel free to check out the source code or contact me. 😊
-
----
-
-### Notes:
-
-- The **Screenshots** placeholders (`path/to/screenshot.png`) should be replaced with actual paths to the screenshots of the respective interfaces. 
-- You can add animations in Java using libraries like JavaFX for more dynamic UI experiences.
